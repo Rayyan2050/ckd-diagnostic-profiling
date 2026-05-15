@@ -2,6 +2,7 @@
 CKD Diagnostic Profiling
 The study utilizes a robust dataset of 20,537 patients consisting of 43 biomarkers and clinical indicators. The dataset is categorized into 5 diagnostic classes representing different stages of kidney health: No_Disease, Low_Risk, Moderate_Risk, High_Risk, and Severe_Disease/CKD. CKD affects 850 million people globally, often diagnosed only after losing 50% of function
 the data dictionary is at https://github.com/Rayyan2050/ckd-diagnostic-profiling/commit/772634b248f4522f6e180ad9fc2fcd71907dab4b  the clinical data dictionary is created from scratch using domain knowledge by me.
+the sample of the data ca be accessed here at https://github.com/Rayyan2050/ckd-diagnostic-profiling/commit/fe15c8c4b8b1a46d324d76492deb7e331f313c4c
 **Key Findings & Model Performance**
 Top 3 Biomarkers: Blood Pressure 0.000581991
 <img width="211" height="22" alt="image" src="https://github.com/user-attachments/assets/8d5b3165-981e-48e4-8e4e-50ae0b6c1c86" />
